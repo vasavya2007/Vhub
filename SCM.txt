@@ -1,3 +1,4 @@
-my name is vasavya 
-im in scm class
-date: 5-2-2025
+New command:
+git branch - to check the no of branches 
+git branch <branch name> - to add new branch
+git checkout <branch name> - to shift to branch
