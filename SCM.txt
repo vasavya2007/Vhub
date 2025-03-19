@@ -2,4 +2,22 @@ my name is vasavya
 im in scm class
 date: 5-2-2025
 
-note - the code changed in test branch is not visible here
+pwd = present working directory
+cd = change directory
+ls = list of files in that directory
+mkdir = creates a folder
+rmkdir = removes or deletes folder
+vi = creates file and opens files
+      i = inserting or editing file
+      ESC = to stop inserting
+      :wq = to save the changes
+cat = to display the text in file
+git init = create git repository
+ls -ah = to see hidden files
+git add = to add file into git
+git status = to check git status
+git commit -m"" = to add commit
+git log = to list the commits
+git log --oneline = to list the commits in one line 
+git diff = shows old file and new file
+
